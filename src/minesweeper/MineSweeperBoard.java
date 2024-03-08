@@ -9,14 +9,6 @@ import java.util.random.*;
  * dimensional array of integer values. The integer value stored in each cell of
  * the array indicates the icon which will appear in the corresponding cell of
  * the graphical user interface for the game.
- * 
- * @author Grant Braught
- * @author Tim Wahls
- * @author Dickinson College
- * 
- *
- * @author (Minh and Katey)
- * @version (02/28/24)
  */
 public class MineSweeperBoard {
 
